@@ -70,5 +70,11 @@ Contents
   (10) Key choice
 
   Since it's not clear to see which field(s) is good for collection key, I use the default ObjectId. 
+  
+  (11) Error handling
+  
+  Asyncblock error handling is ignored. In prod-level code this part can never be ignored. Refer to 
+  https://github.com/scriby/asyncblock/blob/master/docs/errors.md for details.
+
 
  
