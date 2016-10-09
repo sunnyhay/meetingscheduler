@@ -1,17 +1,17 @@
-1. Method: PUT
+Method: PUT
 
-2. API endpoint: localhost:3000/updateDate
+API endpoint: localhost:3000/updateDate
 
-contenty-type: application/json
+Contenty-type: application/json
 
-3. Sample input:
+Sample input:
 
 {"name": "Adamgg",
  "where": "kirkland mn 98034",
  "email": "abc@gmail.com"
 }
 
-4. Sample output:
+Sample output:
 
 {
   "ok": 1,

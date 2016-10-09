@@ -1,8 +1,8 @@
-1. Method: GET
+Method: GET
 
-2. API endpoint: http://localhost:3000/listAll
+API endpoint: http://localhost:3000/listAll
 
-3. Sample output:
+Sample output:
 
 [
   {

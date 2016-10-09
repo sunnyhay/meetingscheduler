@@ -1,17 +1,17 @@
-1. Method: POST
+Method: POST
 
-2. API endpoint: localhost:3000/searchByDates
+API endpoint: localhost:3000/searchByDates
 
-contenty-type: application/json
+Contenty-type: application/json
 
-3. Sample input:
+Sample input:
 
 {
 	"start": "2016-01-01 01:01:01",
 	"end": "2016-10-07 12:12:12"
 }
 
-4. Sample output:
+Sample output:
 
 [
   {

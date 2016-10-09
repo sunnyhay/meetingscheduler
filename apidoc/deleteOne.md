@@ -1,10 +1,10 @@
-1. Method: DELETE
+Method: DELETE
 
-2. API endpoint: localhost:3000/deleteOne
+API endpoint: localhost:3000/deleteOne
 
-contenty-type: application/json
+Contenty-type: application/json
 
-3. Sample input:
+Sample input:
 
 {"name": "Adamgg",
  "where": "kirkland mn 98034",
@@ -12,7 +12,7 @@ contenty-type: application/json
  "email": "abc@gmail.com"
 }
 
-4. Sample output:
+Sample output:
 
 (fails due to non-existing meeting)
 

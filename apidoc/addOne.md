@@ -1,10 +1,10 @@
-1. Method: POST
+Method: POST
 
-2. API endpoint: localhost:3000/addOne
+API endpoint: localhost:3000/addOne
 
-content-type: application/json
+Content-type: application/json
 
-3. Sample input:
+Sample input:
 
 {"name": "Adagaga",
  "where": "kirkland CA 98034",
@@ -12,7 +12,7 @@ content-type: application/json
  "email": "abcde@gmail.com1"
 }
 
-4. Sample output:
+Sample output:
 
 {
   "result": {
