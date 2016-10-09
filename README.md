@@ -1,6 +1,7 @@
 # meetingscheduler
 
 Contents
+
 1. Preconditions to run the server
 
   MongoDB 3.2 is used to store meeting records using the default 27017 port.
