@@ -1,6 +1,7 @@
 1. Method: PUT
 
 2. API endpoint: localhost:3000/updateDate
+
 contenty-type: application/json
 
 3. Sample input:

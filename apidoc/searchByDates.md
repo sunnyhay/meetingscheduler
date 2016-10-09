@@ -1,6 +1,7 @@
 1. Method: POST
 
 2. API endpoint: localhost:3000/searchByDates
+
 contenty-type: application/json
 
 3. Sample input:
